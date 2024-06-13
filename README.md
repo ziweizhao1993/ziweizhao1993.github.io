@@ -1,5 +1,8 @@
-# Ziwei Zhao
+# Ziwei Zhao （赵子为）
 <img src="/assets/ziweizhao.jpg" alt="Ziwei Zhao" width="200"/>
+I am currently a Ph.D student in the computer vision lab at Indiana University, led by [Prof. David Crandall](https://homes.luddy.indiana.edu/djcran/). My research focus is egocentric vision and explainable AI.
+
+<span style="color:red">I am currently looking for internship opportunities, please contact me if interested.</span>
 
 ## Education
 **Ph.D. in Computer Science** \
@@ -76,6 +79,17 @@ Conference Reviewer: **CVPR2023, CVPR2024, ECCV2024**
 
 Other Reviewer: **T4V workshop@CVPR2024**
 
+## Photography
+I love traveling and doing photography, [my work](https://www.bilibili.com/video/BV1HF41127RT)
+Some of my favorite photos:
+<img src="/assets/photography/1.jpg" alt="1" width="200"/>
+<img src="/assets/photography/2.jpg" alt="2" width="200"/>
+<img src="/assets/photography/3.jpg" alt="3" width="200"/>
+<img src="/assets/photography/4.jpg" alt="4" width="200"/>
+<img src="/assets/photography/5.jpg" alt="5" width="200"/>
+<img src="/assets/photography/6.jpg" alt="6" width="200"/>
+<img src="/assets/photography/7.jpg" alt="7" width="200"/>
+<img src="/assets/photography/8.jpg" alt="8" width="200"/>
 
 --------------------------------------------------
 
