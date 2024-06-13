@@ -1,4 +1,4 @@
-# Ziwei Zhao （赵子为）
+# Bio
 <img src="/assets/ziweizhao.jpg" alt="Ziwei Zhao" width="200"/>
 
 I am a Ph.D student in the computer vision lab at Indiana University, led by [Prof. David Crandall](https://homes.luddy.indiana.edu/djcran/). My research focus is egocentric vision and explainable AI.
