@@ -86,12 +86,12 @@ I love traveling and doing photography, here is [my work](https://www.bilibili.c
 Some of my favorite photos:
 
 <img src="/assets/photography/1.jpg" alt="1" width="200"/>\
-<img src="/assets/photography/2.jpg" alt="7" width="200"/>\
+<img src="/assets/photography/7.jpg" alt="7" width="200"/>\
 <img src="/assets/photography/3.jpg" alt="3" width="200"/>\
-<img src="/assets/photography/4.jpg" alt="5" width="200"/>\
-<img src="/assets/photography/5.jpg" alt="4" width="200"/>\
+<img src="/assets/photography/5.jpg" alt="5" width="200"/>\
+<img src="/assets/photography/4.jpg" alt="4" width="200"/>\
 <img src="/assets/photography/6.jpg" alt="6" width="200"/>\
-<img src="/assets/photography/7.jpg" alt="2" width="200"/>\
+<img src="/assets/photography/2.jpg" alt="2" width="200"/>\
 <img src="/assets/photography/8.jpg" alt="8" width="200"/>
 
 --------------------------------------------------
