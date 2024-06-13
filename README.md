@@ -1,5 +1,6 @@
 # Ziwei Zhao
-![Ziwei Zhao](/assets/ziweizhao.jpg)
+<img src="/assets/ziweizhao.jpg" alt="Ziwei Zhao" width="200"/>
+
 ## Education
 - Ph.D. in Computer Science | Indiana University Bloomington, Ph.D advisor: Prof. [David Crandall](https://homes.luddy.indiana.edu/djcran/) (_~Present_)								       		
 - M.S. in Electrical Engineering	| Washington University in St. Louis (_2017_)	 			        		
