@@ -1,3 +1,4 @@
+[Google Scholar](https://scholar.google.com/citations?user=m0Sw09YAAAAJ)
 # Bio
 <img src="/assets/ziweizhao.jpg" alt="Ziwei Zhao" width="200"/>
 
@@ -27,7 +28,6 @@ Participated in data collection for Ego4D dataset at Indiana University. [CVPR20
 Designed multiple prototype models for combining deep learning and case-based reasoning to enhance system accuracy and explainability. Publications are listed below.
 
 ## All Publications
-[Google Scholar](https://scholar.google.com/citations?user=m0Sw09YAAAAJ)
 
 1. [Fusing Personal and Environmental Cues for Identification and Segmentation of First-Person Camera Wearers in Third-Person Views](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhao_Fusing_Personal_and_Environmental_Cues_for_Identification_and_Segmentation_of_CVPR_2024_paper.pdf) \
 **Ziwei Zhao**, Yuchen Wang, Chuhua Wang, David Crandall \
