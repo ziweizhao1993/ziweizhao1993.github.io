@@ -6,6 +6,7 @@ I am a Ph.D student in the computer vision lab at Indiana University, led by [Pr
 <span style="color:red">I am currently looking for internship opportunities, please contact me if interested.</span>
 
 [Google Scholar](https://scholar.google.com/citations?user=m0Sw09YAAAAJ)
+
 [My CV](https://indiana-my.sharepoint.com/:b:/g/personal/zz47_iu_edu/EUDjBcecELhLhB4L4xZS4cEBNuBAWfN6fDvHJAjTOKEf7w?e=9fPHKI)
 
 ## Education
