@@ -7,7 +7,7 @@ I am a Ph.D student in the computer vision lab at Indiana University, led by [Pr
 
 [Google Scholar](https://scholar.google.com/citations?user=m0Sw09YAAAAJ)
 
-[My CV](https://indiana-my.sharepoint.com/:b:/g/personal/zz47_iu_edu/EUDjBcecELhLhB4L4xZS4cEBNuBAWfN6fDvHJAjTOKEf7w?e=9fPHKI)
+[My CV](https://indiana-my.sharepoint.com/:b:/g/personal/zz47_iu_edu/ESw9qfn40npOivL9EFlrqcIBDLtpcbLJfiL34AUaOOI7PA?e=qVcJKu)
 
 ## Education
 **Ph.D. in Computer Science** \
