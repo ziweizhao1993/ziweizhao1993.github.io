@@ -1,13 +1,13 @@
 # Bio
 <img src="/assets/ziweizhao.jpg" alt="Ziwei Zhao" width="200"/>
 
-I am a Ph.D student in the computer vision lab at Indiana University, led by [Prof. David Crandall](https://homes.luddy.indiana.edu/djcran/). My research focus is egocentric vision and explainable AI.
+I am currently a Software Engineer Intern at Meta and a Ph.D candidate in the computer vision lab at Indiana University, led by [Prof. David Crandall](https://homes.luddy.indiana.edu/djcran/). My research focus is egocentric vision and explainable AI.
 
-<span style="color:red">I am currently looking for internship opportunities, please contact me if interested.</span>
+<span style="color:red">I am on track to graduate in early to mid-2026 and am seeking full-time opportunities.</span>
 
 [Google Scholar](https://scholar.google.com/citations?user=m0Sw09YAAAAJ)
 
-[My CV](https://indiana-my.sharepoint.com/:b:/g/personal/zz47_iu_edu/ESw9qfn40npOivL9EFlrqcIBDLtpcbLJfiL34AUaOOI7PA?e=qVcJKu)
+[My CV](https://indiana-my.sharepoint.com/:b:/g/personal/zz47_iu_edu/EV44RRDpJ8lGqxKA__Umw2gB55hQref2nVHZA_WrSDOXZA?e=NMnZf1)
 
 ## Education
 **Ph.D. in Computer Science** \
