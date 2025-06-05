@@ -16,7 +16,7 @@ Indiana University Bloomington, Ph.D advisor: Prof. [David Crandall](https://hom
 **M.S. in Electrical Engineering** \
 Washington University in St. Louis (_2017_)	
 
-**B.S. in Astrophysics** \
+**B.S. in Applied Physics** \
 University of Science and Technology of China (_2015_)
 
 ## Research Projects
