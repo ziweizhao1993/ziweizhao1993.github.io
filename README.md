@@ -1,13 +1,13 @@
 # Bio
 <img src="/assets/ziweizhao.jpg" alt="Ziwei Zhao" width="200"/>
 
-I am currently a Software Engineer Intern at Meta and a Ph.D candidate in the computer vision lab at Indiana University, led by [Prof. David Crandall](https://homes.luddy.indiana.edu/djcran/). My research focus is egocentric vision and explainable AI.
+I am currently an upcoming research scientist at Meta and a Ph.D candidate in the computer vision lab at Indiana University, led by [Prof. David Crandall](https://homes.luddy.indiana.edu/djcran/). My research focus is egocentric vision and explainable AI.
 
 <span style="color:red">I am on track to graduate in early to mid-2026 and am seeking full-time opportunities.</span>
 
 [Google Scholar](https://scholar.google.com/citations?user=m0Sw09YAAAAJ)
 
-[My CV](https://indiana-my.sharepoint.com/:b:/g/personal/zz47_iu_edu/EV44RRDpJ8lGqxKA__Umw2gB55hQref2nVHZA_WrSDOXZA?e=NMnZf1)
+<!--[My CV](https://indiana-my.sharepoint.com/:b:/g/personal/zz47_iu_edu/EV44RRDpJ8lGqxKA__Umw2gB55hQref2nVHZA_WrSDOXZA?e=NMnZf1)-->
 
 ## Education
 **Ph.D. in Computer Science** \
@@ -19,7 +19,7 @@ Washington University in St. Louis (_2017_)
 **B.S. in Applied Physics** \
 University of Science and Technology of China (_2015_)
 
-## Research Projects
+<!--## Research Projects
 ### Egocentric Vision
 Designed and tested a new framework for identifying first-person camera wearers in third-person views. [CVPR2024](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhao_Fusing_Personal_and_Environmental_Cues_for_Identification_and_Segmentation_of_CVPR_2024_paper.pdf)
 
@@ -28,7 +28,7 @@ Leading data collection for Ego-exo4D dataset at Indiana University, baseline au
 Participated in data collection for Ego4D dataset at Indiana University. [CVPR2022 Oral](https://arxiv.org/abs/2110.07058)
 
 ### Explainable AI in Deep Learning and Case-based Reasoning
-Designed multiple prototype models for combining deep learning and case-based reasoning to enhance system accuracy and explainability. Publications are listed below.
+Designed multiple prototype models for combining deep learning and case-based reasoning to enhance system accuracy and explainability. Publications are listed below.-->
 
 ## All Publications
 
@@ -73,15 +73,17 @@ Xiaomeng Ye, **Ziwei Zhao**, David Leake, David Crandall \
 Xiaomeng Ye, **Ziwei Zhao**, David Leake, Xizi Wang, David Crandall \
 **IJCAI2021** DeepCBR workshop
 
-## Work Experience
+<!--## Work Experience
 Intern @ Horizon Robotics (_2018_)
 
-Algorithm Engineer @ Beijing IDriverPlus (_2017-2018_)
+Algorithm Engineer @ Beijing IDriverPlus (_2017-2018_)-->
 
-## Services
-Conference Reviewer: **CVPR2023, CVPR2024, ECCV2024**
+## Service
+Reviewer: **CVPR2023-2026, ECCV2024, ICCV2025, WACV2025-2026, ACMMM2025, NeurIPS2025**
 
-Other Reviewer: **T4V workshop@CVPR2024**
+<!--Conference Reviewer: **CVPR2023-2026, ECCV2024, ICCV2025, WACV2025-2026, ACMMM2025, NeurIPS2025**
+
+Other Reviewer: **T4V workshop@CVPR2024**-->
 
 ## Photography
 I love traveling and doing photography, here is [my work](https://www.bilibili.com/video/BV1HF41127RT)
