@@ -1,7 +1,7 @@
 # Bio
 <img src="/assets/ziweizhao.jpg" alt="Ziwei Zhao" width="200"/>
 
-I am currently an upcoming research scientist at Meta and a Ph.D candidate in the computer vision lab at Indiana University, led by [Prof. David Crandall](https://homes.luddy.indiana.edu/djcran/). My research focus is egocentric vision and explainable AI.
+I am an upcoming Research Scientist at Meta and a Ph.D candidate in the computer vision lab at Indiana University, led by [Prof. David Crandall](https://homes.luddy.indiana.edu/djcran/). My research focus is egocentric vision and explainable AI.
 
 <span style="color:red">I am on track to graduate in early to mid-2026 and am seeking full-time opportunities.</span>
 
