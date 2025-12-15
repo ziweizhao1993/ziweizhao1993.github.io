@@ -11,7 +11,7 @@ I am an incoming Research Scientist at Meta and a Ph.D candidate in the computer
 
 ## Education
 **Ph.D. in Computer Science** \
-Indiana University Bloomington, Ph.D advisor: Prof. [David Crandall](https://homes.luddy.indiana.edu/djcran/) (_~Ongoing_)
+Indiana University Bloomington, Ph.D advisor: Prof. [David Crandall](https://homes.luddy.indiana.edu/djcran/) (_Ongoing_)
 
 **M.S. in Electrical Engineering** \
 Washington University in St. Louis <!--(_2017_)-->
